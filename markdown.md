@@ -55,6 +55,8 @@ A continuación, puedes ver una imagen de un mando de videojuegos alojada en Wik
 
 Puedes consultar la [imagen original en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Video_Game_Controller.svg).
 
+![Instituto IES Clara del Rey](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
 ## 6. Tabla de videojuegos
 
 | Juego | Género | Plataforma |
